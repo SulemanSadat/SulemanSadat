@@ -44,4 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulemansadat&show_icons=true&locale=en" alt="sulemansadat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulemansadat&" alt="sulemansadat" /></p>
-<img align='right' alt='coding' width='400'  src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
+<img align='left' alt='coding' width='400'  src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
