@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulemansadat&label=Profile%20views&color=0e75b6&style=flat" alt="sulemansadat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulemansadat" alt="sulemansadat" /></a> </p>
-<img align='right' alt='coding' width='400'  src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
+
 
 - 🔭 I’m currently working on [E-Commerce](https://sulemansadat.github.io/eCommerce/)
 
@@ -44,4 +44,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sulemansadat&show_icons=true&locale=en" alt="sulemansadat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sulemansadat&" alt="sulemansadat" /></p>
-
+<img align='right' alt='coding' width='400'  src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif">
