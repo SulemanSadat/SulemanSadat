@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SULEMAN SADAT</h1>
-<h3 align="center">A passionate Web developer from Afghanistan</h3>
+<h3 align="center">Full Stack Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sulemansadat&label=Profile%20views&color=0e75b6&style=flat" alt="sulemansadat" /> </p>
 
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [E-Commerce](https://sulemansadat.github.io/eCommerce/)
 
-- 🌱 I’m currently learning **Vue.Js and Full Stack Development**
+- 🌱 I’m currently learning **Laravel and Full Stack Development**
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/SulemanSadat/)
 
