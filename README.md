@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [E-Commerce](https://sulemansadat.github.io/eCommerce/)
 
-- 🌱 I’m currently learning **React.js and Full Stack Development**
+- 🌱 I’m currently learning **Vue.Js and Full Stack Development**
 
 - 👯 I’m looking to collaborate on [GitHub](https://github.com/SulemanSadat/)
 
