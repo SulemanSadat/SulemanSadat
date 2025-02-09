@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [linkedin.com/in/suleman-sadat/](linkedin.com/in/suleman-sadat/)
 
-- ⚡ Fun fact **I am interested in AI & Programming**
+- ⚡ Fun fact **I am interested in AI & Creating Content**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
