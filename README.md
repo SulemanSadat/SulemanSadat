@@ -1,24 +1,44 @@
 <h1 align="center">Hi 👋, I'm SULEMAN SADAT</h1>
-<h3 align="center">Designer & Developer</h3>
+<h3 align="center">💻 Designer & Developer | 🎨 Digital Product Creator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sulemansadat&label=Profile%20views&color=0e75b6&style=flat" alt="sulemansadat" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sulemansadat" alt="sulemansadat" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sulemansadat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=sulemansadat&theme=gruvbox&row=1&column=6&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on [E-Commerce](https://sulemansadat.github.io/eCommerce/)
+---
 
-- 🌱 I’m currently learning **Design & Development**
+### 🚀 About Me  
+- 🔭 Currently working on: [**E-Commerce Project**](https://sulemansadat.github.io/eCommerce/)  
+- 🌱 Learning: **Design & Development**  
+- 👯 Open to collaborating on: [GitHub Projects](https://github.com/SulemanSadat/)  
+- 👨‍💻 Explore all my work: [GitHub Portfolio](https://github.com/SulemanSadat/)  
+- 📝 Sometimes I share thoughts on: [My Repos](https://github.com/SulemanSadat/)  
+- 💬 Ask me about: **Frontend Development**  
+- ⚡ Fun fact: *I love E-commerce & Content Creation*  
 
-- 👯 I’m looking to collaborate on [GitHub](https://github.com/SulemanSadat/)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/SulemanSadat/](https://github.com/SulemanSadat/)
+### 🛠️ Languages & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,figma,git,github,flutter,python,mysql" />
+</p>
 
-- 📝 I regularly write articles on [https://github.com/SulemanSadat/](https://github.com/SulemanSadat/)
+---
 
-- 💬 Ask me about **Frontend Development**
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sulemansadat&show_icons=true&theme=radical" alt="stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulemansadat&theme=radical" alt="streak" height="160"/>
+</p>
 
-- ⚡ Fun fact **I am interested in E-commerce & Content Creation**
 
 
 <h3 align="left">Languages and Tools:</h3>
