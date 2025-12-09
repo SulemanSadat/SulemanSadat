@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SULEMAN SADAT</h1>
-<h3 align="center">💻 Designer & Developer | 🎨 Digital Product Creator</h3>
+<h3 align="center">💻 Full Stack Developer | 🎨 Digital Product Creator</h3>
 
 ---
 
