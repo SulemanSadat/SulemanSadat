@@ -22,7 +22,7 @@
 - 👨‍💻 Explore all my work: [GitHub Portfolio](https://github.com/SulemanSadat/)  
 - 📝 Sometimes I share thoughts on: [My Repos](https://github.com/SulemanSadat/)  
 - 💬 Ask me about: **Frontend Development**  
-- ⚡ Fun fact: *I love E-commerce & Content Creation*  
+- ⚡ Fun fact: *I love Content Creation & Ai*  
 
 ---
 
