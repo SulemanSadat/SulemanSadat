@@ -22,7 +22,7 @@
 - 👨‍💻 Explore all my work: [GitHub Portfolio](https://github.com/SulemanSadat/)  
 - 📝 Sometimes I share thoughts on: [My Repos](https://github.com/SulemanSadat/)  
 - 💬 Ask me about: **Full Stack Development**  
-- ⚡ Fun fact: *I'm interested in AI, Creating Content, E-commerce*  
+- ⚡ Fun fact: *I'm interested in AI, Creating Content and E-commerce.*  
 
 ---
 
