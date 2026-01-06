@@ -16,13 +16,13 @@
 ---
 
 ### 🚀 About Me  
-- 🔭 Currently working on: [**Portfolio**](https://sulemansadat.github.io/Portfolio/)  
-- 🌱 Learning: **Design & Development**  
+- 🔭 Currently working on: [**Freelancing**](https://www.upwork.com/freelancers/~014bff980dca84873b?mp_source=share)  
+- 🌱 Learning: **AI**  
 - 👯 Open to collaborating on: [GitHub Projects](https://github.com/SulemanSadat/)  
 - 👨‍💻 Explore all my work: [GitHub Portfolio](https://github.com/SulemanSadat/)  
 - 📝 Sometimes I share thoughts on: [My Repos](https://github.com/SulemanSadat/)  
-- 💬 Ask me about: **Frontend Development**  
-- ⚡ Fun fact: *I love Content Creation & Ai*  
+- 💬 Ask me about: **Full Stack Development**  
+- ⚡ Fun fact: *I'm interested in AI, Creating Content, E-commerce*  
 
 ---
 
