@@ -17,7 +17,7 @@
 
 ### 🚀 About Me  
 - 🔭 Currently working on: [**Freelancing**](https://www.upwork.com/freelancers/~014bff980dca84873b?mp_source=share)  
-- 🌱 Learning: **AI**  
+- 🌱 Learning: **AI & N8N**  
 - 👯 Open to collaborating on: [GitHub Projects](https://github.com/SulemanSadat/)  
 - 👨‍💻 Explore all my work: [GitHub Portfolio](https://github.com/SulemanSadat/)  
 - 📝 Sometimes I share thoughts on: [My Repos](https://github.com/SulemanSadat/)  
