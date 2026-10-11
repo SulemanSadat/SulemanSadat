@@ -1,112 +1,94 @@
-<!-- GitHub profile README · Startup-founder-inspired edition -->
-<div align="center">
+<!-- Suleman Sadat — GitHub Profile README -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071729,55:115E99,100:38BDF8&amp;height=140&amp;section=header&amp;animation=fadeIn" width="100%" alt="Animated deep-blue wave header" />
+<div align="center">
 
 # Suleman Sadat
 
-**Full-Stack Developer · Digital Product Creator**
+**Full-Stack Developer · Product-Minded Engineer**
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=18&amp;duration=2900&amp;pause=1100&amp;color=1785CD&amp;center=true&amp;vCenter=true&amp;width=310&amp;height=55&amp;lines=Build.+Ship.+Iterate.;Web+Apps+%26+SaaS;AI+%26+Automation" alt="Animated introduction: Build. Ship. Iterate. / Web Apps and SaaS / AI and Automation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=19&amp;duration=3100&amp;pause=1100&amp;color=D5DCE5&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=46&amp;lines=Full-Stack+Product+Engineering;Web+Applications+%26+SaaS;AI+Integrations+%26+Automation" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=19&amp;duration=3100&amp;pause=1100&amp;color=171717&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=46&amp;lines=Full-Stack+Product+Engineering;Web+Applications+%26+SaaS;AI+Integrations+%26+Automation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=19&amp;duration=3100&amp;pause=1100&amp;color=171717&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=46&amp;lines=Full-Stack+Product+Engineering;Web+Applications+%26+SaaS;AI+Integrations+%26+Automation" width="440" alt="Full-stack product engineering; web applications and SaaS; AI integrations and automation" />
+</picture>
 
-**From concept to production.** I build useful software, connect systems, and turn complex ideas into clear digital products.
+**I build web products from the first idea to a production release.**
 
-[Explore the work ↗](https://github.com/SulemanSadat?tab=repositories)
+Full-stack development · Product engineering · AI automation
+
+[**Explore my work ↗**](https://github.com/SulemanSadat?tab=repositories)
 
 </div>
 
 ---
 
-### 👋 About
+### 👋 A little about me
 
-I'm a **full-stack developer with 4+ years of experience** building scalable web applications for startups and global clients. My work spans **React, Next.js, Python, PHP/Laravel, APIs, and deployment**—from early product decisions to production-ready systems.
+I'm **Suleman Sadat**, a full-stack developer with **4+ years of experience** developing scalable web applications for startups and international clients. I work across **React, Next.js, TypeScript, Python, PHP/Laravel, APIs, and deployment**, taking products from planning through delivery.
 
-I currently work in **freelance development** and explore **AI agents, OpenAI API integrations, SaaS products, and workflow automation**. I enjoy collaborating with distributed teams, making thoughtful engineering decisions, and shipping products that solve real problems.
+My current focus is **freelance development**, with growing work in **AI integrations, automation workflows, AI agents, and SaaS**. I care about thoughtful interfaces, maintainable systems, and practical results.
 
-### ⚡ What I build
+### What I work on
 
-| Focus | Capabilities |
-| :-- | :-- |
-| **Product engineering** | Full-stack web apps, responsive interfaces, SaaS-oriented products |
-| **Backend & integrations** | REST APIs, Laravel, Python, Node.js, MySQL, Telegram API |
-| **AI & automation** | OpenAI API / LLM integration, n8n workflows, prompt engineering |
-| **Delivery & systems** | Architecture, Docker, CI/CD, Agile/Scrum, testing and deployment |
+- **Web & product development** — End-to-end web applications, responsive interfaces, and SaaS-oriented systems.
+- **Backend engineering** — REST APIs, Laravel, Python, Node.js, and MySQL.
+- **AI & automation** — OpenAI API integrations, n8n, Telegram API, and LLM-powered workflows.
+- **Shipping & collaboration** — Docker, CI/CD, testing, system architecture, and Agile/Scrum teams.
 
-### 🧰 Technology stack
+### ⚙️ Tech stack
 
-<!-- Individual icons have a fixed size and wrap naturally on narrow screens. -->
-**Frontend & product design**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react&amp;theme=light" width="40" height="40" alt="React" title="React" />
-  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=light" width="40" height="40" alt="Next.js" title="Next.js" />
-  <img src="https://skillicons.dev/icons?i=ts&amp;theme=light" width="40" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js&amp;theme=light" width="40" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=tailwind&amp;theme=light" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=html&amp;theme=light" width="40" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css&amp;theme=light" width="40" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=figma&amp;theme=light" width="40" height="40" alt="Figma" title="Figma" />
+<!-- Animated icons where available. Two compact lines on desktop; icons wrap on narrow screens. -->
+<p align="center">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="52" height="52" alt="React" title="React" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="52" height="52" alt="TypeScript" title="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="52" height="52" alt="JavaScript" title="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="52" height="52" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="46" height="46" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="46" height="46" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="46" height="46" alt="Figma" title="Figma" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark" width="46" height="46" alt="Laravel" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=php&amp;theme=dark" width="46" height="46" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="46" height="46" alt="Node.js" title="Node.js" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52" height="52" alt="MySQL" title="MySQL" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="52" height="52" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="46" height="46" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=wordpress&amp;theme=dark" width="46" height="46" alt="WordPress" title="WordPress" />
 </p>
 
-<sub>React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML/CSS · Figma · React Native · Flutter</sub>
+<details>
+<summary><strong>Additional tools & technologies</strong></summary>
 
-**Backend & databases**
+React Native · Flutter · HTML5 · CSS3 · Java · C++ · C# · SQL · Shopify · GitHub · OpenAI API · Codex · Cursor AI · Claude Code · n8n · Prompt Engineering · CI/CD
 
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel&amp;theme=light" width="40" height="40" alt="Laravel" title="Laravel" />
-  <img src="https://skillicons.dev/icons?i=php&amp;theme=light" width="40" height="40" alt="PHP" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=py&amp;theme=light" width="40" height="40" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=light" width="40" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://skillicons.dev/icons?i=mysql&amp;theme=light" width="40" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://skillicons.dev/icons?i=java&amp;theme=light" width="40" height="40" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=cpp&amp;theme=light" width="40" height="40" alt="C++" title="C++" />
-  <img src="https://skillicons.dev/icons?i=cs&amp;theme=light" width="40" height="40" alt="C sharp" title="C sharp" />
-</p>
+</details>
 
-<sub>Laravel · PHP · Python · Node.js · MySQL / SQL · Java · C++ · C#</sub>
+### 🚀 Experience
 
-**Platforms & delivery**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker&amp;theme=light" width="40" height="40" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=git&amp;theme=light" width="40" height="40" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=github&amp;theme=light" width="40" height="40" alt="GitHub" title="GitHub" />
-  <img src="https://skillicons.dev/icons?i=wordpress&amp;theme=light" width="40" height="40" alt="WordPress" title="WordPress" />
-</p>
-
-<sub>Docker · Git / GitHub · WordPress · Shopify · CI/CD · Agile/Scrum</sub>
-
-**AI & automation tools**
-
-OpenAI API · n8n · Telegram API · Codex · Cursor AI · Claude Code · Prompt Engineering
-
-### 🚀 Experience & selected work
-
-**Full-Stack Developer · MobiMix Ltd**  
+**Full-Stack Developer — MobiMix Ltd**  
 *React · Python · JavaScript · PHP*
 
-- Worked across planning, development, testing, and deployment of web applications in an Agile/Scrum team.
-- Contributed to process and delivery improvements that helped the team complete projects **65% faster**.
-- Mentored junior developers and supported collaborative, quality-focused engineering practices.
+- Supported product delivery from planning and development through testing and deployment in an Agile/Scrum environment.
+- Contributed to delivery improvements that helped the team complete projects **65% faster**.
+- Mentored junior developers and contributed to collaborative engineering practices.
 
-**Full-Stack Developer · Freelance**  
+**Full-Stack Developer — Freelance**  
 *React · Next.js · Laravel · Docker · n8n*
 
-- Built full-stack systems for global clients, with a focus on reliability, maintainable code, and thoughtful user experiences.
-- Combined frontend and backend development with testing and deployment workflows.
+- Built and delivered full-stack applications for international clients, connecting product interfaces, backend services, testing, and deployment.
+- Focused on scalable implementation, maintainability, and reliability after release.
 
-[See public repositories and work →](https://github.com/SulemanSadat?tab=repositories)
+**Selected work:** [Browse GitHub repositories →](https://github.com/SulemanSadat?tab=repositories)
 
-### 🎓 Credentials
+### 🎓 Certification
 
-**Apple Ads Certified** · Apple · 2026
+**Apple Ads Certified** — Apple, 2026
 
 ---
 
 <div align="center">
 
-*Build with purpose. Ship with care.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071729,55:115E99,100:38BDF8&amp;height=70&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Animated blue wave footer" />
+*Less noise. Better software.*
 
 </div>
