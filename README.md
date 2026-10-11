@@ -63,7 +63,7 @@ I'm **Suleman Sadat**, a full-stack developer with **4+ years of experience** de
   <img src="https://cdn.simpleicons.org/wordpress" width="34" height="34" alt="WordPress" title="WordPress" />
   <img src="https://cdn.simpleicons.org/n8n" width="34" height="34" alt="n8n" title="n8n" />
   <img src="https://cdn.simpleicons.org/telegram" width="34" height="34" alt="Telegram API" title="Telegram API" />
-  <img src="https://cdn.simpleicons.org/bootstrap" width="34" height="34" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="34" height="34" alt="Three.js" title="Three.js" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="34" height="34" alt="Slack" title="Slack" />
   <img src="https://cdn.simpleicons.org/cursor/171717/FFFFFF" width="34" height="34" alt="Cursor AI" title="Cursor AI" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="34" height="34" alt="Docker" title="Docker" />
