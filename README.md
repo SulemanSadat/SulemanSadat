@@ -77,7 +77,7 @@
 
 ## 🚀 Career log
 
-<details open>
+<details close>
 <summary><b>⚡ Full-Stack Developer — MobiMix Ltd</b> &nbsp;·&nbsp; <i>React · Python · JavaScript · PHP</i></summary>
 <br/>
 
