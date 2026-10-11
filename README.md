@@ -37,46 +37,41 @@ My current focus is **freelance development**, with growing work in **AI integra
 
 ### ⚙️ Tech stack
 
-<!-- Next.js first. Animated icons where available; remaining icons are individual brand marks. -->
+<!-- Two deliberate rows on desktop; inline images wrap naturally on narrow screens. -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="46" height="46" alt="Next.js" title="Next.js" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="52" height="52" alt="React" title="React" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="52" height="52" alt="TypeScript" title="TypeScript" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="52" height="52" alt="JavaScript" title="JavaScript" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="52" height="52" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="46" height="46" alt="Tailwind CSS" title="Tailwind CSS" />
-  <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="46" height="46" alt="Figma" title="Figma" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/171717/FFFFFF" width="34" height="34" alt="Next.js" title="Next.js" />
+  <img src="https://cdn.simpleicons.org/claude/DA7756" width="34" height="34" alt="Claude Code" title="Claude Code" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="34" height="34" alt="React" title="React" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="34" height="34" alt="TypeScript" title="TypeScript" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="34" height="34" alt="JavaScript" title="JavaScript" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="34" height="34" alt="Python" title="Python" />
+  <img src="https://cdn.simpleicons.org/tailwindcss" width="34" height="34" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://cdn.simpleicons.org/figma" width="34" height="34" alt="Figma" title="Figma" />
+  <img src="https://cdn.simpleicons.org/laravel" width="34" height="34" alt="Laravel" title="Laravel" />
+  <img src="https://cdn.simpleicons.org/php" width="34" height="34" alt="PHP" title="PHP" />
+  <img src="https://cdn.simpleicons.org/nodedotjs" width="34" height="34" alt="Node.js" title="Node.js" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="34" height="34" alt="MySQL" title="MySQL" />
+  <img src="https://cdn.simpleicons.org/git" width="34" height="34" alt="Git" title="Git" />
+  <img src="https://cdn.simpleicons.org/wordpress" width="34" height="34" alt="WordPress" title="WordPress" />
+  <img src="https://cdn.simpleicons.org/reactnative" width="34" height="34" alt="React Native" title="React Native" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel&amp;theme=dark" width="46" height="46" alt="Laravel" title="Laravel" />
-  <img src="https://skillicons.dev/icons?i=php&amp;theme=dark" width="46" height="46" alt="PHP" title="PHP" />
-  <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" width="46" height="46" alt="Node.js" title="Node.js" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="52" height="52" alt="MySQL" title="MySQL" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="52" height="52" alt="Docker" title="Docker" />
-  <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" width="46" height="46" alt="Git" title="Git" />
-  <img src="https://skillicons.dev/icons?i=wordpress&amp;theme=dark" width="46" height="46" alt="Wordpress" title="Wordpress" />
-</p>
+  <img src="https://cdn.simpleicons.org/flutter" width="34" height="34" alt="Flutter" title="Flutter" />
+  <img src="https://cdn.simpleicons.org/html5" width="34" height="34" alt="HTML5" title="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3" width="34" height="34" alt="CSS3" title="CSS3" />
+  <img src="https://cdn.simpleicons.org/java" width="34" height="34" alt="Java" title="Java" />
+  <img src="https://cdn.simpleicons.org/cplusplus" width="34" height="34" alt="C++" title="C++" />
+  <img src="https://cdn.simpleicons.org/csharp" width="34" height="34" alt="C#" title="C#" />
+  <img src="https://cdn.simpleicons.org/shopify/95BF47" width="34" height="34" alt="Shopify" title="Shopify" />
+  <img src="https://cdn.simpleicons.org/github/171717/FFFFFF" width="34" height="34" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/openai/412991/FFFFFF" width="34" height="34" alt="OpenAI API" title="OpenAI API" />
+  <img src="https://cdn.simpleicons.org/n8n" width="34" height="34" alt="n8n" title="n8n" />
+  <img src="https://cdn.simpleicons.org/telegram" width="34" height="34" alt="Telegram API" title="Telegram API" />
+  <img src="https://cdn.simpleicons.org/bootstrap" width="34" height="34" alt="Bootstrap" title="Bootstrap" />
+  <img src="https://cdn.simpleicons.org/slack" width="34" height="34" alt="Slack" title="Slack" />
+  <img src="https://cdn.simpleicons.org/cursor/171717/FFFFFF" width="34" height="34" alt="Cursor AI" title="Cursor AI" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="34" height="34" alt="Docker" title="Docker" />
 
-<!-- Additional technologies shown as icons only, with accessible alt text. -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" width="42" height="42" alt="React Native" title="React Native" />
-  <img src="https://skillicons.dev/icons?i=flutter&amp;theme=dark" width="42" height="42" alt="Flutter" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=html&amp;theme=dark" width="42" height="42" alt="HTML5" title="HTML5" />
-  <img src="https://skillicons.dev/icons?i=css&amp;theme=dark" width="42" height="42" alt="CSS3" title="CSS3" />
-  <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="42" height="42" alt="Java" title="Java" />
-  <img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" width="42" height="42" alt="C++" title="C++" />
-  <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="42" height="42" alt="C#" title="C#" />
-  <img src="https://cdn.simpleicons.org/shopify/95BF47" width="42" height="42" alt="Shopify" title="Shopify" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="42" height="42" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="42" height="42" alt="OpenAI API" title="OpenAI API" />
-  <img src="https://cdn.simpleicons.org/n8n/64748B" width="42" height="42" alt="n8n" title="n8n" />
-  <img src="https://skillicons.dev/icons?i=telegram&amp;theme=dark" width="42" height="42" alt="Telegram API" title="Telegram API" />
-  <img src="https://skillicons.dev/icons?i=bootstrap&amp;theme=dark" width="42" height="42" alt="Bootstrap" title="Bootstrap" />
-  <img src="https://skillicons.dev/icons?i=slack&amp;theme=dark" width="42" height="42" alt="Slack" title="Slack" />
-  <img src="https://cdn.simpleicons.org/cursor/64748B" width="42" height="42" alt="Cursor AI" title="Cursor AI" />
-  <img src="https://cdn.simpleicons.org/claude/DA7756" width="42" height="42" alt="Claude Code" title="Claude Code" />
 </p>
 
 ### 🚀 Experience
