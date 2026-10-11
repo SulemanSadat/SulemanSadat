@@ -1,82 +1,112 @@
+<!-- GitHub profile README · Startup-founder-inspired edition -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:164E92,100:38BDF8&height=145&section=header&animation=fadeIn" alt="Animated blue wave header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071729,55:115E99,100:38BDF8&amp;height=140&amp;section=header&amp;animation=fadeIn" width="100%" alt="Animated deep-blue wave header" />
 
-<h1>Suleman Sadat <img src="https://img.shields.io/badge/%E2%9C%93-168BEB?style=flat" alt="Decorative blue checkmark (not GitHub verification)" height="25" /></h1>
+# Suleman Sadat
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3200&pause=1000&color=2589CE&center=true&vCenter=true&width=530&height=38&lines=Full-Stack+Developer;Digital+Product+Creator;AI+Integrations+%26+Automation" alt="Animated text: Full-Stack Developer, Digital Product Creator, AI Integrations and Automation" />
+**Full-Stack Developer · Digital Product Creator**
 
-Building scalable applications, thoughtful digital products, and practical automation.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&amp;weight=600&amp;size=18&amp;duration=2900&amp;pause=1100&amp;color=1785CD&amp;center=true&amp;vCenter=true&amp;width=310&amp;height=55&amp;lines=Build.+Ship.+Iterate.;Web+Apps+%26+SaaS;AI+%26+Automation" alt="Animated introduction: Build. Ship. Iterate. / Web Apps and SaaS / AI and Automation" />
 
-[**Explore my work →**](https://github.com/SulemanSadat?tab=repositories)
+**From concept to production.** I build useful software, connect systems, and turn complex ideas into clear digital products.
+
+[Explore the work ↗](https://github.com/SulemanSadat?tab=repositories)
 
 </div>
 
 ---
 
-### Profile
+### 👋 About
 
-Full-stack developer with **4+ years of experience** building and shipping web applications for startups and global clients. I work across frontend interfaces, backend systems, APIs, and deployment—combining hands-on engineering with a product-focused approach.
+I'm a **full-stack developer with 4+ years of experience** building scalable web applications for startups and global clients. My work spans **React, Next.js, Python, PHP/Laravel, APIs, and deployment**—from early product decisions to production-ready systems.
 
-Currently working in **freelance development** and expanding my focus on **AI integrations, agents, and workflow automation**. Open to collaborating on meaningful GitHub projects.
+I currently work in **freelance development** and explore **AI agents, OpenAI API integrations, SaaS products, and workflow automation**. I enjoy collaborating with distributed teams, making thoughtful engineering decisions, and shipping products that solve real problems.
 
-### Core expertise
+### ⚡ What I build
 
-| Area | Focus |
-| --- | --- |
-| **Frontend engineering** | React, Next.js, TypeScript, JavaScript, responsive UI |
-| **Backend & APIs** | PHP, Laravel, Python, Node.js, REST APIs, MySQL |
-| **AI & automation** | OpenAI API integration, n8n, prompt engineering, AI-assisted development |
-| **Product & delivery** | Full-stack architecture, Figma, Docker, CI/CD, Agile/Scrum |
+| Focus | Capabilities |
+| :-- | :-- |
+| **Product engineering** | Full-stack web apps, responsive interfaces, SaaS-oriented products |
+| **Backend & integrations** | REST APIs, Laravel, Python, Node.js, MySQL, Telegram API |
+| **AI & automation** | OpenAI API / LLM integration, n8n workflows, prompt engineering |
+| **Delivery & systems** | Architecture, Docker, CI/CD, Agile/Scrum, testing and deployment |
 
-### Technology stack
+### 🧰 Technology stack
 
-<sub><strong>Frontend & mobile</strong></sub>
-
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,flutter,figma&theme=dark&perline=5" />
-    <img alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Flutter and Figma" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,flutter,figma&theme=light&perline=5" />
-  </picture>
-</p>
-
-<sub><strong>Backend, data & languages</strong></sub>
+<!-- Individual icons have a fixed size and wrap naturally on narrow screens. -->
+**Frontend & product design**
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,py,nodejs,mysql,java,cpp,cs,git&theme=dark&perline=5" />
-    <img alt="Laravel, PHP, Python, Node.js, MySQL, Java, C++, C sharp and Git" src="https://skillicons.dev/icons?i=laravel,php,py,nodejs,mysql,java,cpp,cs,git&theme=light&perline=5" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=react&amp;theme=light" width="40" height="40" alt="React" title="React" />
+  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=light" width="40" height="40" alt="Next.js" title="Next.js" />
+  <img src="https://skillicons.dev/icons?i=ts&amp;theme=light" width="40" height="40" alt="TypeScript" title="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js&amp;theme=light" width="40" height="40" alt="JavaScript" title="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind&amp;theme=light" width="40" height="40" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=html&amp;theme=light" width="40" height="40" alt="HTML5" title="HTML5" />
+  <img src="https://skillicons.dev/icons?i=css&amp;theme=light" width="40" height="40" alt="CSS3" title="CSS3" />
+  <img src="https://skillicons.dev/icons?i=figma&amp;theme=light" width="40" height="40" alt="Figma" title="Figma" />
 </p>
 
-<sub><strong>Infrastructure & platforms</strong></sub>
+<sub>React · Next.js · TypeScript · JavaScript · Tailwind CSS · HTML/CSS · Figma · React Native · Flutter</sub>
+
+**Backend & databases**
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,github,wordpress&theme=dark&perline=5" />
-    <img alt="Docker, GitHub, WordPress and Shopify" src="https://skillicons.dev/icons?i=docker,github,wordpress&theme=light&perline=5" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=laravel&amp;theme=light" width="40" height="40" alt="Laravel" title="Laravel" />
+  <img src="https://skillicons.dev/icons?i=php&amp;theme=light" width="40" height="40" alt="PHP" title="PHP" />
+  <img src="https://skillicons.dev/icons?i=py&amp;theme=light" width="40" height="40" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=light" width="40" height="40" alt="Node.js" title="Node.js" />
+  <img src="https://skillicons.dev/icons?i=mysql&amp;theme=light" width="40" height="40" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=java&amp;theme=light" width="40" height="40" alt="Java" title="Java" />
+  <img src="https://skillicons.dev/icons?i=cpp&amp;theme=light" width="40" height="40" alt="C++" title="C++" />
+  <img src="https://skillicons.dev/icons?i=cs&amp;theme=light" width="40" height="40" alt="C sharp" title="C sharp" />
 </p>
 
-**Also working with:** React Native · n8n · OpenAI API · Telegram API · REST APIs · CI/CD · Shopify · Codex · Cursor AI · Claude Code
+<sub>Laravel · PHP · Python · Node.js · MySQL / SQL · Java · C++ · C#</sub>
 
-### Selected work
+**Platforms & delivery**
 
-**Full-stack client projects · Independent developer**  
-Built and tested full-stack applications for global clients using React, Next.js, Laravel, Docker, and n8n, with an emphasis on reliable releases and maintainable systems.
+<p>
+  <img src="https://skillicons.dev/icons?i=docker&amp;theme=light" width="40" height="40" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=light" width="40" height="40" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=github&amp;theme=light" width="40" height="40" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=wordpress&amp;theme=light" width="40" height="40" alt="WordPress" title="WordPress" />
+</p>
 
-**Web application development · MobiMix Ltd**  
-Contributed to end-to-end delivery—from planning and implementation to testing and deployment—using React, Python, JavaScript, and PHP. Worked in Agile/Scrum teams, supported junior developers, and helped accelerate project completion by **65%**.
+<sub>Docker · Git / GitHub · WordPress · Shopify · CI/CD · Agile/Scrum</sub>
 
-[Explore repositories and projects →](https://github.com/SulemanSadat?tab=repositories)
+**AI & automation tools**
 
-### Experience & credentials
+OpenAI API · n8n · Telegram API · Codex · Cursor AI · Claude Code · Prompt Engineering
 
-- **Full-Stack Developer — Freelancer** · Client delivery, full-stack systems, automation
-- **Full Stack Developer — MobiMix Ltd** · Application engineering, Agile collaboration, mentoring
-- **Apple Ads Certified — Apple (2026)**
+### 🚀 Experience & selected work
 
+**Full-Stack Developer · MobiMix Ltd**  
+*React · Python · JavaScript · PHP*
+
+- Worked across planning, development, testing, and deployment of web applications in an Agile/Scrum team.
+- Contributed to process and delivery improvements that helped the team complete projects **65% faster**.
+- Mentored junior developers and supported collaborative, quality-focused engineering practices.
+
+**Full-Stack Developer · Freelance**  
+*React · Next.js · Laravel · Docker · n8n*
+
+- Built full-stack systems for global clients, with a focus on reliability, maintainable code, and thoughtful user experiences.
+- Combined frontend and backend development with testing and deployment workflows.
+
+[See public repositories and work →](https://github.com/SulemanSadat?tab=repositories)
+
+### 🎓 Credentials
+
+**Apple Ads Certified** · Apple · 2026
+
+---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:164E92,100:38BDF8&height=85&section=footer" alt="Blue wave footer" />
+
+*Build with purpose. Ship with care.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071729,55:115E99,100:38BDF8&amp;height=70&amp;section=footer&amp;animation=fadeIn" width="100%" alt="Animated blue wave footer" />
+
 </div>
