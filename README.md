@@ -26,8 +26,6 @@ Full-stack development · Product engineering · AI automation
 
 I'm **Suleman Sadat**, a full-stack developer with **4+ years of experience** developing scalable web applications for startups and international clients. I work across **React, Next.js, TypeScript, Python, PHP/Laravel, APIs, and deployment**, taking products from planning through delivery.
 
-My current focus is **freelance development**, with growing work in **AI integrations, automation workflows, AI agents, and SaaS**. I care about thoughtful interfaces, maintainable systems, and practical results.
-
 ### What I work on
 
 - **Product development** — Building responsive, scalable applications from concept to launch.
@@ -64,7 +62,6 @@ My current focus is **freelance development**, with growing work in **AI integra
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="34" height="34" alt="C#" title="C#" />
   <img src="https://cdn.simpleicons.org/shopify/95BF47" width="34" height="34" alt="Shopify" title="Shopify" />
   <img src="https://cdn.simpleicons.org/github/171717/FFFFFF" width="34" height="34" alt="GitHub" title="GitHub" />
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="34" height="34" alt="OpenAI API" title="OpenAI API" />
   <img src="https://cdn.simpleicons.org/n8n" width="34" height="34" alt="n8n" title="n8n" />
   <img src="https://cdn.simpleicons.org/telegram" width="34" height="34" alt="Telegram API" title="Telegram API" />
   <img src="https://cdn.simpleicons.org/bootstrap" width="34" height="34" alt="Bootstrap" title="Bootstrap" />
