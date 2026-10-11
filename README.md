@@ -50,7 +50,6 @@ I'm **Suleman Sadat**, a full-stack developer with **4+ years of experience** de
   <img src="https://cdn.simpleicons.org/nodedotjs" width="34" height="34" alt="Node.js" title="Node.js" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="34" height="34" alt="MySQL" title="MySQL" />
   <img src="https://cdn.simpleicons.org/git" width="34" height="34" alt="Git" title="Git" />
-  <img src="https://cdn.simpleicons.org/wordpress" width="34" height="34" alt="WordPress" title="WordPress" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactnative/reactnative-original.svg" width="34" height="34" alt="React Native" title="React Native" />
 </p>
 <p align="center">
@@ -61,7 +60,7 @@ I'm **Suleman Sadat**, a full-stack developer with **4+ years of experience** de
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="34" height="34" alt="C++" title="C++" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="34" height="34" alt="C#" title="C#" />
   <img src="https://cdn.simpleicons.org/shopify/95BF47" width="34" height="34" alt="Shopify" title="Shopify" />
-  <img src="https://cdn.simpleicons.org/github/171717/FFFFFF" width="34" height="34" alt="GitHub" title="GitHub" />
+  <img src="https://cdn.simpleicons.org/wordpress" width="34" height="34" alt="WordPress" title="WordPress" />
   <img src="https://cdn.simpleicons.org/n8n" width="34" height="34" alt="n8n" title="n8n" />
   <img src="https://cdn.simpleicons.org/telegram" width="34" height="34" alt="Telegram API" title="Telegram API" />
   <img src="https://cdn.simpleicons.org/bootstrap" width="34" height="34" alt="Bootstrap" title="Bootstrap" />
