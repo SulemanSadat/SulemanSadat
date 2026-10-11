@@ -16,8 +16,6 @@
 ![Focus](https://img.shields.io/badge/Focus-Full--Stack_%C2%B7_AI-6d28d9?style=for-the-badge)
 ![Open to](https://img.shields.io/badge/Open_to-Freelance_%26_Collabs-22c55e?style=for-the-badge)
 
-[**🚀 Explore my work**](https://github.com/SulemanSadat?tab=repositories)
-
 </div>
 
 ---
