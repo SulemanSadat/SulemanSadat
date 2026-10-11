@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:6d28d9,100:06b6d4&text=Suleman%20Sadat&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Product-Minded%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Suleman Sadat banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:6d28d9,100:06b6d4&text=Suleman%20Sadat&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Product%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Suleman Sadat banner" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=520&height=50&lines=From+idea+%E2%86%92+production;Web+apps+%26+SaaS+that+scale;AI+workflows+that+actually+ship;Clean+code.+Calm+deploys." />
