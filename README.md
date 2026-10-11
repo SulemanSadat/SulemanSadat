@@ -12,7 +12,6 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=SulemanSadat&label=Visitors&color=6d28d9&style=for-the-badge)
 ![Experience](https://img.shields.io/badge/Experience-4%2B_Years-06b6d4?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Full--Stack_%C2%B7_AI-6d28d9?style=for-the-badge)
 ![Open to](https://img.shields.io/badge/Open_to-Freelance_%26_Collabs-22c55e?style=for-the-badge)
@@ -23,22 +22,6 @@
 
 ---
 
-## 🧑‍💻 `whoami`
-
-```ts
-const suleman = {
-  role: "Full-Stack Developer",
-  experience: "4+ years",
-  clients: "Startups & international teams",
-  mindset: "Product first, code second (but never sloppy)",
-  stack: ["React", "Next.js", "TypeScript", "Python", "PHP/Laravel"],
-  superpower: "Turning fuzzy ideas into shipped products",
-  currentlyExploring: ["AI agents", "n8n automation", "Three.js"],
-  funFact: "I debug best with a second cup of coffee ☕",
-};
-```
-
----
 
 ## 🛠️ What I build
 
@@ -48,19 +31,6 @@ const suleman = {
 | ⚙️ **Backend systems** | Reliable APIs, clean data models, solid integrations |
 | 🤖 **Intelligent workflows** | AI and automation wired into real product needs |
 | 🚢 **Delivery** | Thoughtful architecture, thorough testing, shipping with distributed teams |
-
-### 🔄 How I work
-
-```mermaid
-flowchart LR
-    A[💡 Idea] --> B[📐 Plan]
-    B --> C[🎨 Design]
-    C --> D[⌨️ Build]
-    D --> E[🧪 Test]
-    E --> F[🚢 Deploy]
-    F --> G[📈 Iterate]
-    G -.-> B
-```
 
 ---
 
@@ -117,7 +87,7 @@ flowchart LR
 
 </details>
 
-<details open>
+<details close>
 <summary><b>🌍 Full-Stack Developer — Freelance</b> &nbsp;·&nbsp; <i>React · Next.js · Laravel · Docker · n8n</i></summary>
 <br/>
 
