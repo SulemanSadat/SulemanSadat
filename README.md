@@ -1,12 +1,14 @@
 <div align="center">
 
-# Suleman Sadat
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:164E92,100:38BDF8&height=145&section=header&animation=fadeIn" alt="Animated blue wave header" />
 
-**Full-Stack Developer · Digital Product Creator**
+<h1>Suleman Sadat <img src="https://img.shields.io/badge/%E2%9C%93-168BEB?style=flat" alt="Decorative blue checkmark (not GitHub verification)" height="25" /></h1>
 
-Building scalable web applications, thoughtful digital products, and practical automation.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&duration=3200&pause=1000&color=2589CE&center=true&vCenter=true&width=530&height=38&lines=Full-Stack+Developer;Digital+Product+Creator;AI+Integrations+%26+Automation" alt="Animated text: Full-Stack Developer, Digital Product Creator, AI Integrations and Automation" />
 
-[**View my work**](https://github.com/SulemanSadat?tab=repositories) &nbsp;·&nbsp; [**Connect on GitHub**](https://github.com/SulemanSadat)
+Building scalable applications, thoughtful digital products, and practical automation.
+
+[**Explore my work →**](https://github.com/SulemanSadat?tab=repositories)
 
 </div>
 
@@ -61,7 +63,7 @@ Currently working in **freelance development** and expanding my focus on **AI in
 ### Selected work
 
 **Full-stack client projects · Independent developer**  
-Delivered **3+ full-stack projects** for global clients using React, Next.js, Laravel, Docker, and n8n. Reported **98% client satisfaction** and **30% fewer post-launch bugs** through thorough testing during development.
+Built and tested full-stack applications for global clients using React, Next.js, Laravel, Docker, and n8n, with an emphasis on reliable releases and maintainable systems.
 
 **Web application development · MobiMix Ltd**  
 Contributed to end-to-end delivery—from planning and implementation to testing and deployment—using React, Python, JavaScript, and PHP. Worked in Agile/Scrum teams, supported junior developers, and helped accelerate project completion by **65%**.
@@ -74,8 +76,7 @@ Contributed to end-to-end delivery—from planning and implementation to testing
 - **Full Stack Developer — MobiMix Ltd** · Application engineering, Agile collaboration, mentoring
 - **Apple Ads Certified — Apple (2026)**
 
-### Connect
 
-I'm open to collaborations on full-stack products, developer tools, AI integrations, and automation.
-
-[GitHub profile](https://github.com/SulemanSadat) · [Repositories](https://github.com/SulemanSadat?tab=repositories)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:164E92,100:38BDF8&height=85&section=footer" alt="Blue wave footer" />
+</div>
