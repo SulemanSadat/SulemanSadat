@@ -30,20 +30,20 @@ My current focus is **freelance development**, with growing work in **AI integra
 
 ### What I work on
 
-- **Web & product development** — End-to-end web applications, responsive interfaces, and SaaS-oriented systems.
-- **Backend engineering** — REST APIs, Laravel, Python, Node.js, and MySQL.
-- **AI & automation** — OpenAI API integrations, n8n, Telegram API, and LLM-powered workflows.
-- **Shipping & collaboration** — Docker, CI/CD, testing, system architecture, and Agile/Scrum teams.
+- **Product development** — Building responsive, scalable applications from concept to launch.
+- **Backend systems** — Designing reliable APIs, data models, and integrations.
+- **Intelligent workflows** — Connecting AI capabilities and automation to real product needs.
+- **Product delivery** — Making thoughtful architecture decisions, testing thoroughly, and shipping with distributed teams.
 
 ### ⚙️ Tech stack
 
-<!-- Animated icons for primary technologies; static brand icons for the wider toolset. -->
+<!-- Next.js first. Animated icons where available; remaining icons are individual brand marks. -->
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="46" height="46" alt="Next.js" title="Next.js" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="52" height="52" alt="React" title="React" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="52" height="52" alt="TypeScript" title="TypeScript" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="52" height="52" alt="JavaScript" title="JavaScript" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" width="52" height="52" alt="Python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" width="46" height="46" alt="Next.js" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" width="46" height="46" alt="Tailwind CSS" title="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=figma&amp;theme=dark" width="46" height="46" alt="Figma" title="Figma" />
 </p>
@@ -66,7 +66,7 @@ My current focus is **freelance development**, with growing work in **AI integra
   <img src="https://skillicons.dev/icons?i=java&amp;theme=dark" width="42" height="42" alt="Java" title="Java" />
   <img src="https://skillicons.dev/icons?i=cpp&amp;theme=dark" width="42" height="42" alt="C++" title="C++" />
   <img src="https://skillicons.dev/icons?i=cs&amp;theme=dark" width="42" height="42" alt="C#" title="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/shopify/shopify-original.svg" width="42" height="42" alt="Shopify" title="Shopify" />
+  <img src="https://cdn.simpleicons.org/shopify/95BF47" width="42" height="42" alt="Shopify" title="Shopify" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github&amp;theme=dark" width="42" height="42" alt="GitHub" title="GitHub" />
@@ -76,7 +76,7 @@ My current focus is **freelance development**, with growing work in **AI integra
   <img src="https://skillicons.dev/icons?i=bootstrap&amp;theme=dark" width="42" height="42" alt="Bootstrap" title="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=slack&amp;theme=dark" width="42" height="42" alt="Slack" title="Slack" />
   <img src="https://cdn.simpleicons.org/cursor/64748B" width="42" height="42" alt="Cursor AI" title="Cursor AI" />
-  <img src="https://cdn.simpleicons.org/anthropic/64748B" width="42" height="42" alt="Claude Code" title="Claude Code" />
+  <img src="https://cdn.simpleicons.org/claude/DA7756" width="42" height="42" alt="Claude Code" title="Claude Code" />
 </p>
 
 ### 🚀 Experience
