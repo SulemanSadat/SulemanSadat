@@ -2,40 +2,70 @@
 
 <div align="center">
 
-# Suleman Sadat
-
-**Full-Stack Developer · Product-Minded Engineer**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:6d28d9,100:06b6d4&text=Suleman%20Sadat&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Product-Minded%20Engineer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Suleman Sadat banner" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=19&amp;duration=3100&amp;pause=1100&amp;color=D5DCE5&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=46&amp;lines=Full-Stack+Product+Engineering;Web+Applications+%26+SaaS;AI+Integrations+%26+Automation" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=19&amp;duration=3100&amp;pause=1100&amp;color=171717&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=46&amp;lines=Full-Stack+Product+Engineering;Web+Applications+%26+SaaS;AI+Integrations+%26+Automation" />
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=19&amp;duration=3100&amp;pause=1100&amp;color=171717&amp;center=true&amp;vCenter=true&amp;width=440&amp;height=46&amp;lines=Full-Stack+Product+Engineering;Web+Applications+%26+SaaS;AI+Integrations+%26+Automation" width="440" alt="Full-stack product engineering; web applications and SaaS; AI integrations and automation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=A5B4FC&center=true&vCenter=true&width=520&height=50&lines=From+idea+%E2%86%92+production;Web+apps+%26+SaaS+that+scale;AI+workflows+that+actually+ship;Clean+code.+Calm+deploys." />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&width=520&height=50&lines=From+idea+%E2%86%92+production;Web+apps+%26+SaaS+that+scale;AI+workflows+that+actually+ship;Clean+code.+Calm+deploys." />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2800&pause=900&color=6D28D9&center=true&vCenter=true&width=520&height=50&lines=From+idea+%E2%86%92+production;Web+apps+%26+SaaS+that+scale;AI+workflows+that+actually+ship;Clean+code.+Calm+deploys." width="520" alt="From idea to production; web apps and SaaS; AI workflows; clean code" />
 </picture>
 
-**I build web products from the first idea to a production release.**
+<br/>
 
-Full-stack development · Product engineering · AI automation
+![Profile views](https://komarev.com/ghpvc/?username=SulemanSadat&label=Visitors&color=6d28d9&style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-4%2B_Years-06b6d4?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Full--Stack_%C2%B7_AI-6d28d9?style=for-the-badge)
+![Open to](https://img.shields.io/badge/Open_to-Freelance_%26_Collabs-22c55e?style=for-the-badge)
 
-[**Explore my work ↗**](https://github.com/SulemanSadat?tab=repositories)
+[**🚀 Explore my work**](https://github.com/SulemanSadat?tab=repositories)
 
 </div>
 
 ---
 
-### 👋 A little about me
+## 🧑‍💻 `whoami`
 
-I'm **Suleman Sadat**, a full-stack developer with **4+ years of experience** developing scalable web applications for startups and international clients. I work across **React, Next.js, TypeScript, Python, PHP/Laravel, APIs, and deployment**, taking products from planning through delivery.
+```ts
+const suleman = {
+  role: "Full-Stack Developer",
+  experience: "4+ years",
+  clients: "Startups & international teams",
+  mindset: "Product first, code second (but never sloppy)",
+  stack: ["React", "Next.js", "TypeScript", "Python", "PHP/Laravel"],
+  superpower: "Turning fuzzy ideas into shipped products",
+  currentlyExploring: ["AI agents", "n8n automation", "Three.js"],
+  funFact: "I debug best with a second cup of coffee ☕",
+};
+```
 
-### What I work on
+---
 
-- **Product development** — Building responsive, scalable applications from concept to launch.
-- **Backend systems** — Designing reliable APIs, data models, and integrations.
-- **Intelligent workflows** — Connecting AI capabilities and automation to real product needs.
-- **Product delivery** — Making thoughtful architecture decisions, testing thoroughly, and shipping with distributed teams.
+## 🛠️ What I build
 
-### ⚙️ Tech stack
+| | |
+|---|---|
+| 🧱 **Product development** | Responsive, scalable apps, from concept to launch |
+| ⚙️ **Backend systems** | Reliable APIs, clean data models, solid integrations |
+| 🤖 **Intelligent workflows** | AI and automation wired into real product needs |
+| 🚢 **Delivery** | Thoughtful architecture, thorough testing, shipping with distributed teams |
 
-<!-- Two deliberate rows on desktop; inline images wrap naturally on narrow screens. -->
+### 🔄 How I work
+
+```mermaid
+flowchart LR
+    A[💡 Idea] --> B[📐 Plan]
+    B --> C[🎨 Design]
+    C --> D[⌨️ Build]
+    D --> E[🧪 Test]
+    E --> F[🚢 Deploy]
+    F --> G[📈 Iterate]
+    G -.-> B
+```
+
+---
+
+## ⚙️ Tech arsenal
+
 <p align="center">
   <img src="https://cdn.simpleicons.org/nextdotjs/171717/FFFFFF" width="34" height="34" alt="Next.js" title="Next.js" />
   <img src="https://cdn.simpleicons.org/claude/DA7756" width="34" height="34" alt="Claude Code" title="Claude Code" />
@@ -64,52 +94,77 @@ I'm **Suleman Sadat**, a full-stack developer with **4+ years of experience** de
   <img src="https://cdn.simpleicons.org/n8n" width="34" height="34" alt="n8n" title="n8n" />
   <img src="https://cdn.simpleicons.org/telegram" width="34" height="34" alt="Telegram API" title="Telegram API" />
   <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://cdn.simpleicons.org/threedotjs/FFFFFF"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://cdn.simpleicons.org/threedotjs/171717"
-  />
-  <img
-    src="https://cdn.simpleicons.org/threedotjs/171717"
-    width="34"
-    height="34"
-    alt="Three.js"
-    title="Three.js"
-  />
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/threedotjs/FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/threedotjs/171717" />
+    <img src="https://cdn.simpleicons.org/threedotjs/171717" width="34" height="34" alt="Three.js" title="Three.js" />
+  </picture>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" width="34" height="34" alt="Slack" title="Slack" />
   <img src="https://cdn.simpleicons.org/cursor/171717/FFFFFF" width="34" height="34" alt="Cursor AI" title="Cursor AI" />
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="34" height="34" alt="Docker" title="Docker" />
 </p>
 
-### 🚀 Experience
+---
 
-**Full-Stack Developer — MobiMix Ltd**  
-*React · Python · JavaScript · PHP*
+## 🚀 Career log
 
-- Supported product delivery from planning and development through testing and deployment in an Agile/Scrum environment.
+<details open>
+<summary><b>⚡ Full-Stack Developer — MobiMix Ltd</b> &nbsp;·&nbsp; <i>React · Python · JavaScript · PHP</i></summary>
+<br/>
+
+- Supported delivery from planning and development through testing and deployment in an Agile/Scrum environment.
 - Contributed to delivery improvements that helped the team complete projects **65% faster**.
-- Mentored junior developers and contributed to collaborative engineering practices.
+- Mentored junior developers and promoted collaborative engineering practices.
 
-**Full-Stack Developer — Freelance**  
-*React · Next.js · Laravel · Docker · n8n*
+</details>
 
-- Built and delivered full-stack applications for international clients, connecting product interfaces, backend services, testing, and deployment.
+<details open>
+<summary><b>🌍 Full-Stack Developer — Freelance</b> &nbsp;·&nbsp; <i>React · Next.js · Laravel · Docker · n8n</i></summary>
+<br/>
+
+- Built and delivered full-stack applications for international clients: interfaces, backend services, testing and deployment.
 - Focused on scalable implementation, maintainability, and reliability after release.
 
-**Selected work:** [Browse GitHub repositories →](https://github.com/SulemanSadat?tab=repositories)
+</details>
 
 ### 🎓 Certification
 
-**Apple Ads Certified** — Apple, 2026
+![Apple Ads Certified](https://img.shields.io/badge/Apple_Ads-Certified_2026-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ---
 
+## 📊 GitHub stats
+
 <div align="center">
 
-*Building scalable products.*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SulemanSadat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SulemanSadat&show_icons=true&theme=default&hide_border=true" height="170" alt="GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SulemanSadat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SulemanSadat&layout=compact&theme=default&hide_border=true" height="170" alt="Top languages" />
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SulemanSadat&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=SulemanSadat&theme=default&hide_border=true" alt="Contribution streak" />
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's build something
+
+<div align="center">
+
+> *"Ship it small, ship it solid, then make it better."*
+
+[![GitHub](https://img.shields.io/badge/GitHub-SulemanSadat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SulemanSadat)
+[![Repositories](https://img.shields.io/badge/Browse-Repositories-6d28d9?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/SulemanSadat?tab=repositories)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06b6d4,50:6d28d9,100:0f172a&section=footer&text=Building%20scalable%20products.&fontSize=22&fontColor=ffffff&fontAlignY=65" width="100%" alt="Footer" />
 
 </div>
