@@ -1,57 +1,81 @@
-<h1 align="center">Hi 👋, I'm SULEMAN SADAT</h1>
-<h3 align="center">💻 Full Stack Developer | 🎨 Digital Product Creator</h3>
+<div align="center">
+
+# Suleman Sadat
+
+**Full-Stack Developer · Digital Product Creator**
+
+Building scalable web applications, thoughtful digital products, and practical automation.
+
+[**View my work**](https://github.com/SulemanSadat?tab=repositories) &nbsp;·&nbsp; [**Connect on GitHub**](https://github.com/SulemanSadat)
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sulemansadat&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+### Profile
+
+Full-stack developer with **4+ years of experience** building and shipping web applications for startups and global clients. I work across frontend interfaces, backend systems, APIs, and deployment—combining hands-on engineering with a product-focused approach.
+
+Currently working in **freelance development** and expanding my focus on **AI integrations, agents, and workflow automation**. Open to collaborating on meaningful GitHub projects.
+
+### Core expertise
+
+| Area | Focus |
+| --- | --- |
+| **Frontend engineering** | React, Next.js, TypeScript, JavaScript, responsive UI |
+| **Backend & APIs** | PHP, Laravel, Python, Node.js, REST APIs, MySQL |
+| **AI & automation** | OpenAI API integration, n8n, prompt engineering, AI-assisted development |
+| **Product & delivery** | Full-stack architecture, Figma, Docker, CI/CD, Agile/Scrum |
+
+### Technology stack
+
+<sub><strong>Frontend & mobile</strong></sub>
+
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,flutter,figma&theme=dark&perline=5" />
+    <img alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, Flutter and Figma" src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,flutter,figma&theme=light&perline=5" />
+  </picture>
 </p>
 
----
+<sub><strong>Backend, data & languages</strong></sub>
 
-### 🚀 About Me  
-- 🔭 Currently working on: [**Freelancing**](https://www.upwork.com/freelancers/~014bff980dca84873b?mp_source=share)  
-- 🌱 Learning: **AI & Automation**  
-- 👯 Open to collaborating on: [GitHub Projects](https://github.com/SulemanSadat/)  
-- 👨‍💻 Explore all my work: [GitHub Portfolio](https://github.com/SulemanSadat/)  
-- 📝 Sometimes I share thoughts on: [My Repos](https://github.com/SulemanSadat/)  
-- 💬 Ask me about: **Full Stack Development**  
-- ⚡ Fun fact: *I'm interested in AI Agents, Automation & SaaS*  
-
----
-
-### 🛠️ Languages & Tools  
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
-  <a href="https://laravel.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"
-       alt="laravel" width="40" height="40"/> </a>
-   <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://wordpress.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain-wordmark.svg" alt="wordpress" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a>
-  <a href="https://flutter.dev" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/></a>
-
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,php,py,nodejs,mysql,java,cpp,cs,git&theme=dark&perline=5" />
+    <img alt="Laravel, PHP, Python, Node.js, MySQL, Java, C++, C sharp and Git" src="https://skillicons.dev/icons?i=laravel,php,py,nodejs,mysql,java,cpp,cs,git&theme=light&perline=5" />
+  </picture>
 </p>
 
----
+<sub><strong>Infrastructure & platforms</strong></sub>
 
-### 📊 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sulemansadat&show_icons=true&theme=radical" alt="sulemansadat" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulemansadat&theme=radical" alt="streak" />
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,github,wordpress&theme=dark&perline=5" />
+    <img alt="Docker, GitHub, WordPress and Shopify" src="https://skillicons.dev/icons?i=docker,github,wordpress&theme=light&perline=5" />
+  </picture>
 </p>
 
-<p><img align='left' alt='coding' width='300' src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/9e5055da2ee6c899aab9403ceb7d0dc3.gif"></p>
+**Also working with:** React Native · n8n · OpenAI API · Telegram API · REST APIs · CI/CD · Shopify · Codex · Cursor AI · Claude Code
+
+### Selected work
+
+**Full-stack client projects · Independent developer**  
+Delivered **3+ full-stack projects** for global clients using React, Next.js, Laravel, Docker, and n8n. Reported **98% client satisfaction** and **30% fewer post-launch bugs** through thorough testing during development.
+
+**Web application development · MobiMix Ltd**  
+Contributed to end-to-end delivery—from planning and implementation to testing and deployment—using React, Python, JavaScript, and PHP. Worked in Agile/Scrum teams, supported junior developers, and helped accelerate project completion by **65%**.
+
+[Explore repositories and projects →](https://github.com/SulemanSadat?tab=repositories)
+
+### Experience & credentials
+
+- **Full-Stack Developer — Freelancer** · Client delivery, full-stack systems, automation
+- **Full Stack Developer — MobiMix Ltd** · Application engineering, Agile collaboration, mentoring
+- **Apple Ads Certified — Apple (2026)**
+
+### Connect
+
+I'm open to collaborations on full-stack products, developer tools, AI integrations, and automation.
+
+[GitHub profile](https://github.com/SulemanSadat) · [Repositories](https://github.com/SulemanSadat?tab=repositories)
